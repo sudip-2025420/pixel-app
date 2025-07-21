@@ -683,7 +683,7 @@ export default function AuctionCard({ config, products }: any) {
               style={{
                 overflowY: "auto",
                 maxHeight: "70vh",
-                paddingBottom: 210,
+                paddingBottom: 0,
               }}
             >
               <div
